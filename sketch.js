@@ -17,6 +17,6 @@ function draw() {
   fill(random(255), random (237), 244);
   textSize(75)
   text('Ahora...',355, 650);
-  text('¿Soy un adulto?', 800, random(650));
+  text('¿Soy un adulto?', 500, random(650));
   frameRate(5)
 }
